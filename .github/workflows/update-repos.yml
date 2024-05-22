@@ -1,0 +1,41 @@
+name: Update Recent Repositories
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Fetch repository data
+        id: fetch-repos
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const response = await github.repos.listForAuthenticatedUser({
+              per_page: 10,
+              sort: 'updated'
+            });
+            const repos = response.data.map(repo => `[${repo.name}](${repo.html_url}) - ${repo.description}`).join('\n');
+            console.log(repos);
+            core.setOutput('repoList', repos);
+
+      - name: Update README
+        run: |
+          REPO_LIST=$(echo "${{ steps.fetch-repos.outputs.repoList }}" | sed 's/\//\\\//g')
+          sed -i "/<!-- REPO_LIST_START -->/,/<!-- REPO_LIST_END -->/c\\
+          <!-- REPO_LIST_START -->\\
+          $REPO_LIST\\
+          <!-- REPO_LIST_END -->" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with recent repositories"
+          git push
