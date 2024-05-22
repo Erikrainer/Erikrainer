@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erikrainer&theme=onedark)](https://github.com/Erikrainer)
 
-## Hi there,👋 I'm Erik: 
+## Hi there,![waving hand gif](https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif) I'm Erik: 
 a passionate web developer currently completing my bootcamp. I'm enthusiastic about learning new technologies and building exciting projects. Graduating in June 2024!
 
 ## Languages
@@ -71,7 +71,7 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
   </tr>
 </table>
 
-## Skills
+## Skills ⚔️
 
 <table>
   <tr>
@@ -132,23 +132,4 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
 - Instagram: [erikgontijo](https://www.instagram.com/erikgontijo/)
 - Email: rainer.erik70@gmail.com
 
-🟡
-🟡🟡
-🟡🟡🟡
-🟡🟡🟡🟡
-🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡🟡
-🟡🟡🟡🟡🟡
-🟡🟡🟡🟡
-🟡🟡🟡
-🟡🟡
-🟡\
-
+- 🚀 Don't hesitate to reach out to me! Let's connect and collaborate! 🌟
