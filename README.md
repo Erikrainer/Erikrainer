@@ -19,6 +19,17 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" />
     </td>
     <td align="center">
+      <strong>C++</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+    </td>
+  </tr>
+</table>
+
+## Technologies
+
+<table>
+  <tr>
+    <td align="center">
       <strong>Bootstrap</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
     </td>
@@ -48,15 +59,11 @@
     </td>
     <td align="center">
       <strong>AJAX</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ajax/ajax-original.svg" width="50" height="50" />
+      <img src="https://img.shields.io/badge/-AJAX-0769AD?style=flat&logo=ajax&logoColor=white" width="100" height="30" />
     </td>
     <td align="center">
       <strong>MERN</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mern/mern-original.svg" width="50" height="50" />
-    </td>
-    <td align="center">
-      <strong>C++</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+      <img src="https://img.shields.io/badge/-MERN-61DAFB?style=flat&logo=mongodb&logoColor=white" width="100" height="30" />
     </td>
   </tr>
 </table>
