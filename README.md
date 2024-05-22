@@ -2,6 +2,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erikrainer&theme=onedark)](https://github.com/Erikrainer)
 
+## My Recent Repositories
+
+{{#each repositories}}
+- [{{name}}]({{html_url}}) - {{description}}
+{{/each}}
+
 ## Languages
 
 <table>
