@@ -4,9 +4,8 @@
 
 ## My Recent Repositories
 
-{{#each repositories}}
-- [{{name}}]({{html_url}}) - {{description}}
-{{/each}}
+<!-- REPO_LIST_START -->
+<!-- REPO_LIST_END -->
 
 ## Languages
 
