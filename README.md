@@ -2,6 +2,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erikrainer&theme=onedark)](https://github.com/Erikrainer)
 
+-About ME: 
+Hi there! 👋 I'm Erik, a passionate web developer currently completing my bootcamp. I'm enthusiastic about learning new technologies and building exciting projects. Graduating in June 2024!
+
 ## Languages
 
 <table>
