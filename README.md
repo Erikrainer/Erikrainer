@@ -46,8 +46,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" />
     </td>
     <td align="center">
-      <strong>SQL</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50" />
+      <strong>PostgreSQL</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" />
     </td>
     <td align="center">
       <strong>NoSQL</strong><br>
@@ -127,4 +127,4 @@
 - GitHub: [Erikrainer](https://github.com/Erikrainer)
 - LinkedIn: [Erik Gontijo](https://www.linkedin.com/in/erik-gontijo-05950a2bb/)
 - Instagram: [erikgontijo](https://www.instagram.com/erikgontijo/)
-- Email: [rainer.erik70@gmail.com
+- Email: rainer.erik70@gmail.com
