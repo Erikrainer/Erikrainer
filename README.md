@@ -92,6 +92,8 @@
       <strong>Object-oriented Programming</strong><br>
       <img src="https://img.shields.io/badge/-OOP-00979D?logo=cplusplus&logoColor=white&style=flat" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>MVC Paradigm</strong><br>
       <img src="https://img.shields.io/badge/-MVC%20paradigm-7952B3?logo=spring&logoColor=white&style=flat" />
