@@ -48,11 +48,11 @@
     </td>
     <td align="center">
       <strong>AJAX</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ajax/ajax-original.svg" width="50" height="50" />
+     [![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=flat&logo=ajax&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
     </td>
     <td align="center">
       <strong>MERN</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mern/mern-original.svg" width="50" height="50" />
+      [![MERN](https://img.shields.io/badge/MERN-61DAFB?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/mern-stack)
     </td>
     <td align="center">
       <strong>C++</strong><br>
