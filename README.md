@@ -33,6 +33,10 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
 <table>
   <tr>
     <td align="center">
+  <strong>jQuery</strong><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" />
+    </td>
+    <td align="center">
       <strong>Bootstrap</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
     </td>
