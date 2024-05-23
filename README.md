@@ -129,8 +129,8 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
   <tr>
     <td align="center">
       <strong>ORM</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/database/database-original.svg" width="50" height="50" />
-  </td>
+      <img src="https://img.shields.io/badge/-ORM-007ACC?logo=database&logoColor=white&style=flat" />
+    </td>
   </tr>
 </table>
 
