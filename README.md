@@ -49,6 +49,10 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" />
     </td>
     <td align="center">
+    <strong>Handlebars</strong><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" width="50" height="50" />
+    </td>
+    <td align="center">
       <strong>React</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" />
     </td>
