@@ -70,7 +70,7 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
       <strong>SQL</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" width="50" height="50" />
+      <img src="https://img.icons8.com/color/96/000000/database-query.png" width="50" height="50" />
     </td>
     <td align="center">
       <strong>JSON</strong><br>
