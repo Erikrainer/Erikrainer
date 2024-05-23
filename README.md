@@ -126,6 +126,12 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <img src="https://img.shields.io/badge/-Feasibility-007ACC?logo=knowledgebase&logoColor=white&style=flat" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <strong>ORM</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/database/database-original.svg" width="50" height="50" />
+  </td>
+  </tr>
 </table>
 
 ## GitHub Stats
