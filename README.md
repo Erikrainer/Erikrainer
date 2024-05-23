@@ -98,7 +98,7 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
       <strong>Next.js</strong><br />
-      <img https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" width="50" height="50" />
+      <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" width="50" height="50" />
     </td>
   </tr>
 </table>
