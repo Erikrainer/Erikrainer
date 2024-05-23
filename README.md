@@ -154,6 +154,12 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <img src="https://img.shields.io/badge/-PWA-007ACC?logo=pwa&logoColor=white&style=flat" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <strong>GraphQL</strong><br>
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat" />
+    </td>
+  </tr>
 </table>
 
 ## GitHub Stats
