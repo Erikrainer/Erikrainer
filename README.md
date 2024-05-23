@@ -164,7 +164,9 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
 
 ## GitHub Stats
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erikrainer&show_icons=true&theme=radical)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikrainer&layout=compact&theme=radical)
 
 ## How to Reach Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" align="center" />
