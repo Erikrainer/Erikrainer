@@ -75,6 +75,10 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <img src="https://img.icons8.com/dotty/80/000000/sql.png" width="50" height="50" />
     </td>
     <td align="center">
+      <strong>MongoDB</strong><br>
+      <img src="mongodb_logo.png" width="50" height="50" />
+    </td>
+    <td align="center">
       <strong>JSON</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50" height="50" />
     </td>
