@@ -33,8 +33,12 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
 <table>
   <tr>
     <td align="center">
-  <strong>jQuery</strong><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" />
+      <strong>jQuery</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50" />
+    </td>
+    <td align="center">
+      <strong>API</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" height="50" />
     </td>
     <td align="center">
       <strong>Bootstrap</strong><br>
