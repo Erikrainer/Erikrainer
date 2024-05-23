@@ -54,7 +54,7 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
     <strong>Handlebars</strong><br>
-    <img src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/373653/handlebars.svg" width="50" height="50" />
     </td>
     <td align="center">
       <strong>React</strong><br>
