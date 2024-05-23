@@ -98,7 +98,7 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
       <strong>Next.js</strong><br />
-      <img src="https://img.icons8.com/color/48/000000/next.png" width="50" height="50" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzAs2PWfAYr2v1GcyTzxoZGyKUAVIm2bbU_my3D_0kut_h7bxsScfM8meY1i0n_O3oXk&usqp=CAU" width="50" height="50" />
     </td>
   </tr>
 </table>
