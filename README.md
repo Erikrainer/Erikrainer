@@ -96,6 +96,10 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <strong>GraphQL</strong><br>
       <img src="https://img.icons8.com/color/48/000000/graphql.png" width="50" height="50" />
     </td>
+    <td align="center">
+      <strong>Next.js</strong><br />
+      <img src="https://img.icons8.com/color/48/000000/next.png" width="50" height="50" />
+    </td>
   </tr>
 </table>
 
