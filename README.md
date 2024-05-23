@@ -60,6 +60,8 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <strong>React</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>PostgreSQL</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" />
