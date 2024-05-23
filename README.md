@@ -50,11 +50,11 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
       <strong>Express.js</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" />
+      <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" width="50" height="50" />
     </td>
     <td align="center">
     <strong>Handlebars</strong><br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" width="50" height="50" />
+    <img src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg" width="50" height="50" />
     </td>
     <td align="center">
       <strong>React</strong><br>
@@ -68,15 +68,15 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
       <strong>NoSQL</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+      <img src="https://i.pinimg.com/originals/11/0a/de/110ade2eb213377c6995bb9f949caae1.png" width="50" height="50" />
     </td>
     <td align="center">
       <strong>SQL</strong><br>
-      <img src="https://img.icons8.com/dotty/80/000000/sql.png" width="50" height="50" />
+      <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" width="50" height="50" />
     </td>
     <td align="center">
       <strong>MongoDB</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="50" height="50" />
     </td>
     <td align="center">
       <strong>JSON</strong><br>
