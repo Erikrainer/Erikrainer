@@ -69,6 +69,10 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50" />
     </td>
     <td align="center">
+      <strong>SQL</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" width="50" height="50" />
+    </td>
+    <td align="center">
       <strong>JSON</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50" height="50" />
     </td>
