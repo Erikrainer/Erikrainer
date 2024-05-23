@@ -38,7 +38,7 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
       <strong>API</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" height="50" />
+      <img src="https://static.vecteezy.com/system/resources/previews/008/328/554/original/api-icon-style-free-vector.jpg" width="50" height="50" />
     </td>
     <td align="center">
       <strong>Bootstrap</strong><br>
