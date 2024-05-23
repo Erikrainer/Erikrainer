@@ -135,6 +135,10 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <strong>Model-View-Controller</strong><br>
       <img src="https://img.shields.io/badge/-Model--View--Controller-007ACC?logo=layers&logoColor=white&style=flat" />
     </td>
+    <td align="center">
+      <strong>Progressive Web App (PWA)</strong><br>
+      <img src="https://img.shields.io/badge/-PWA-007ACC?logo=pwa&logoColor=white&style=flat" />
+    </td>
   </tr>
 </table>
 
