@@ -128,8 +128,12 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
   </tr>
   <tr>
     <td align="center">
-      <strong>ORM</strong><br>
-      <img src="https://img.shields.io/badge/-ORM-007ACC?logo=database&logoColor=white&style=flat" />
+      <strong>Object-Relational Mapping</strong><br>
+      <img src="https://img.shields.io/badge/-Object--Relational%20Mapping-007ACC?logo=database&logoColor=white&style=flat" />
+    </td>
+    <td align="center">
+      <strong>Model-View-Controller</strong><br>
+      <img src="https://img.shields.io/badge/-Model--View--Controller-007ACC?logo=layers&logoColor=white&style=flat" />
     </td>
   </tr>
 </table>
