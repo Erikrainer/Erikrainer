@@ -23,6 +23,10 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" />
     </td>
     <td align="center">
+      <strong>Unreal Engine</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Unreal_Engine_Logo.svg" width="50" height="50" alt="Unreal Engine Logo" />
+    </td>
+    <td align="center">
       <strong>C++</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
     </td>
