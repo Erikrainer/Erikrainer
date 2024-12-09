@@ -24,7 +24,7 @@ a passionate web developer currently completing my bootcamp. I'm enthusiastic ab
     </td>
     <td align="center">
       <strong>Unreal Engine</strong><br>
-      <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" width="50" height="50" alt="Unreal Engine Logo" />
+      <img src="https://img.icons8.com/?size=64&id=69503&format=png" width="50" height="50" alt="Unreal Engine Logo" />
     </td>
     <td align="center">
       <strong>C++</strong><br>
