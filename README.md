@@ -2,8 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erikrainer&theme=onedark)](https://github.com/Erikrainer)
 
-## Hi there,<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Erik: 
-a passionate web developer currently completing my bootcamp. I'm enthusiastic about learning new technologies and building exciting projects. Graduating in June 2024!
+## Hi there,<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm a passionate web developer who recently graduated from a bootcamp. I'm currently studying C++ for Unreal Engine, exploring Unreal Engine features, and mastering Blueprint scripting. I'm working on a game inspired by Final Fantasy Tactics, aiming to create a more realistic world with intricate mechanics and engaging gameplay.
 
 [![RandG Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://rangportfolio.netlify.app/)
 ## Languages
